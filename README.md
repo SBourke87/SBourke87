@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SBourke87
+- 👀 I’m interested in sharpening my coding skills in Java, Python, and C!
+- 🌱 I’m currently learning React!
+- 💞️ I’m looking to collaborate on anything I can help out with!
